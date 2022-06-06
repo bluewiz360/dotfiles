@@ -1,9 +1,9 @@
 # Aliases
 alias nv='nvim'
-alias vim='nvim'
 alias acl='cd ~/Dev/AcceleratedCanonLaw'
 alias dcu='docker compose up'
 alias gca='git commit -a -m'
+alias tmux='tmux -u'
 
 source /home/bluewiz/antigen.zsh
 
